@@ -1,0 +1,15 @@
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\bin\Debug\net6.0\laba4(2.2).exe
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\bin\Debug\net6.0\laba4(2.2).deps.json
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\bin\Debug\net6.0\laba4(2.2).runtimeconfig.json
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\bin\Debug\net6.0\laba4(2.2).dll
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\bin\Debug\net6.0\laba4(2.2).pdb
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).csproj.AssemblyReference.cache
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).AssemblyInfoInputs.cache
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).AssemblyInfo.cs
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).csproj.CoreCompileInputs.cache
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).dll
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\refint\laba4(2.2).dll
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).pdb
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\laba4(2.2).genruntimeconfig.cache
+C:\Users\Yuliana\source\repos\laba4(2.2)\laba4(2.2)\obj\Debug\net6.0\ref\laba4(2.2).dll
